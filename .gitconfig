@@ -1,0 +1,10 @@
+[user]
+	email = debin.li@outlook.com
+	name = Debin Li
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	unstage = reset HEAD --
+	last = log -1 HEAD
